@@ -9,11 +9,11 @@ format:
 
 ## Registration
 
-If you want to join the **Geosciences PhD day** please register [here](https://forms.uu.nl/universiteitutrecht-geo/GeoPhDDay2026). Below you can find more information about the event, including the descriptions of the keynote and workshops.
+If you want to join the **Geosciences PhD day** please register [here](https://forms.uu.nl/universiteitutrecht-geo/GeoPhDDay2026){target="_blank"}. Below you can find more information about the event, including the descriptions of the keynote and workshops.
 
 ## Welcome [12:30-13:00]
 
-**GEO PhD Day 2026** takes place on **2nd April 2026** from **12:30-17:00** at the 📍 [**Parnassos Cultural Center**](https://share.here.com/p/s-Yz1PcmdhbmlzYXRpb24lMjBvciUyMFNvY2lldHk7aWQ9NTI4dTE3OGstNjg5NTk2YWNmODZjNDE1OWJiNmVmMDI2NDM5Mjc0NDY7bGF0PTUyLjA5NDE4O2xvbj01LjEzMDM7bj1QYXJuYXNzb3MrQ3VsdHV1cmNlbnRydW07cGg9KzMxMzAyNTM4NDQ4?z=16&t=normal) in Utrecht (Kruisstraat 201).  The event is organized by the [**Young Geo Council**](https://teams.microsoft.com/l/team/19%3A524754d1fc7844de8c9973a4e98adb9a%40thread.tacv2/conversations?groupId=5b93c626-3041-4910-a212-d4abce088c29&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7).
+**GEO PhD Day 2026** takes place on **2nd April 2026** from **12:30-17:00** at the 📍 [**Parnassos Cultural Center**](https://share.here.com/p/s-Yz1PcmdhbmlzYXRpb24lMjBvciUyMFNvY2lldHk7aWQ9NTI4dTE3OGstNjg5NTk2YWNmODZjNDE1OWJiNmVmMDI2NDM5Mjc0NDY7bGF0PTUyLjA5NDE4O2xvbj01LjEzMDM7bj1QYXJuYXNzb3MrQ3VsdHV1cmNlbnRydW07cGg9KzMxMzAyNTM4NDQ4?z=16&t=normal){target="_blank"} in Utrecht (Kruisstraat 201).  The event is organized by the [**Young Geo Council**](https://teams.microsoft.com/l/team/19%3A524754d1fc7844de8c9973a4e98adb9a%40thread.tacv2/conversations?groupId=5b93c626-3041-4910-a212-d4abce088c29&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7){target="_blank"}.
 
 ## <span style="color:#be311eff;"> Keynote: Free the Map. From Atlas to Hermes, towards a new cartography of borders and migration. [13:15-14:15] </span>
 
@@ -40,7 +40,7 @@ natural container of analysis. It masks historical and relational geographies, s
 interdependencies, demographic diversity, and legal entanglements, while reinforcing exclusionary,
 nationalistic “us versus them” imaginaries.
 
-Based on my book [Free the Map (2024)](https://freethemap.org), this lecture unpacks the effects of this hegemonic state-centric cartography and presents alternative approaches—counter-mapping, experience-mapping,
+Based on my book [Free the Map (2024)](https://freethemap.org){target="_blank"}, this lecture unpacks the effects of this hegemonic state-centric cartography and presents alternative approaches—counter-mapping, experience-mapping,
 and connectivity-mapping—that humanize the map and acknowledge how deeply interconnected and
 interdependent we are on the globe.
 
@@ -74,7 +74,7 @@ world—and a call to redraw the nationalistic frame. **Let’s free the map.**
 
 ### <span style="color:#1e88e5ff;">● Non‑Academic Publishing</span>
 
-Led by *Kars Oosterhuis* - [Hora Est](https://www.hora-est.com)
+Led by *Kars Oosterhuis* - [Hora Est](https://www.hora-est.com){target="_blank"}
 
 <details>
 <summary><strong>Click to see workshop description</strong></summary>
@@ -125,5 +125,5 @@ such as sustainability, feminism, activism, and community.
 
 ## 🍽️ Dinner [17:30-21:00]
 
-After the workshops, we will gather for dinner at [Spaghetteria - Wittenvrouwensingel](https://share.here.com/p/s-Yz1SZXN0YXVyYW50O2lkPTUyOGp4N3BzLWFlMmJkYTNjMTZlNTBiMmNjMTBlZGEwNTFhYTRkYTg3O2xhdD01Mi4wOTUzNDtsb249NS4xMjY2NDtuPVNwYWdoZXR0ZXJpYStVdHJlY2h0K1dpdHRldnJvdXdlbnNpbmdlbDtwaD0rMzEzMDAwMDAwMDA=?z=16&t=normal). The dinner will be covered by the **Young Geo-Council**. Please note that spots are limited and will be allocated on a first-come, first-served basis.
+After the workshops, we will gather for dinner at [Spaghetteria - Wittenvrouwensingel](https://share.here.com/p/s-Yz1SZXN0YXVyYW50O2lkPTUyOGp4N3BzLWFlMmJkYTNjMTZlNTBiMmNjMTBlZGEwNTFhYTRkYTg3O2xhdD01Mi4wOTUzNDtsb249NS4xMjY2NDtuPVNwYWdoZXR0ZXJpYStVdHJlY2h0K1dpdHRldnJvdXdlbnNpbmdlbDtwaD0rMzEzMDAwMDAwMDA=?z=16&t=normal){target="_blank"}. The dinner will be covered by the **Young Geo-Council**. Please note that spots are limited and will be allocated on a first-come, first-served basis.
 
