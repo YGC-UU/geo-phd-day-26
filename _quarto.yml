@@ -1,0 +1,11 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "GEO PhD Day 2026"
+  navbar: false
+
+format:
+  html:
+    theme: cosmo

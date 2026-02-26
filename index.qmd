@@ -1,0 +1,114 @@
+---
+title: | 
+  ![](logo.png){width=20%} Geosciences PhD Day 2026
+description: "Program details for the 2026 edition of the GEO PhD Day. This event is open to PhD students at the Faculty of Geosciences, Utrecht University."
+format:
+  html:
+    css: styles.css
+---
+
+## Welcome
+
+**GEO PhD Day 2026** takes place on **2nd April 2026** from **12:30-17:00** at the 📍 [**Parnassos Cultural Center**](https://share.here.com/p/s-Yz1PcmdhbmlzYXRpb24lMjBvciUyMFNvY2lldHk7aWQ9NTI4dTE3OGstNjg5NTk2YWNmODZjNDE1OWJiNmVmMDI2NDM5Mjc0NDY7bGF0PTUyLjA5NDE4O2xvbj01LjEzMDM7bj1QYXJuYXNzb3MrQ3VsdHV1cmNlbnRydW07cGg9KzMxMzAyNTM4NDQ4?z=16&t=normal) in Utrecht (Kruisstraat 201).  The event is organized by the [**Young Geo Council**](https://teams.microsoft.com/l/team/19%3A524754d1fc7844de8c9973a4e98adb9a%40thread.tacv2/conversations?groupId=5b93c626-3041-4910-a212-d4abce088c29&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7).
+
+## <span style="color:#be311eff;"> Keynote: Free the Map. From Atlas to Hermes, towards a new cartography of borders and migration</span>
+
+*Prof. Dr. Henk van Houtum* (Nijmegen Centre for Border Research, Radboud University)
+
+<details>
+<summary><strong>Click to see workshop description</strong></summary>
+
+<br> 
+A world map is a visual story that represents a particular perspective on reality. One might therefore
+expect multiple visual narratives reflecting the diverse actors, relations, and experiences that shape
+our world. Yet since the 16th century, the standard atlas—developed by Gerardus Mercator in a
+colonial context of discovery (read: conquest)—has largely told a single story: that of the nation-state.
+This state-centric cartography reduces the world’s complexity to bordered boxes, depicting people as
+homogeneous groups enclosed within thin, continuous lines. Migration, within this logic, appears as
+an anomaly, often visualized as hostile arrows invading these boxes.
+
+This cartographic tradition has become so normalized that it is widely mistaken for objective and
+neutral, even though it represents only one perspective on the world. The consequences of this form
+of surreal, visual storytelling are vast. It feeds what geographers describe as the territorial trap and
+what social scientists call methodological nationalism: the tendency to treat the nation-state as the
+natural container of analysis. It masks historical and relational geographies, socio-economic
+interdependencies, demographic diversity, and legal entanglements, while reinforcing exclusionary,
+nationalistic “us versus them” imaginaries.
+
+Based on my book [Free the Map (2024)](https://freethemap.org), this lecture unpacks the effects of this hegemonic state-centric cartography and presents alternative approaches—counter-mapping, experience-mapping,
+and connectivity-mapping—that humanize the map and acknowledge how deeply interconnected and
+interdependent we are on the globe.
+
+</details>
+
+## Workshops
+
+### <span style="color:#e01919ff;">● MapLab: *Ceci n’est pas les Pays-Bas*</span>
+
+Led by *Prof. Dr. Henk van Houtum* (Nijmegen Centre for Border Research, Radboud University)
+
+<details>
+<summary><strong>Click to see workshop description</strong></summary>
+<br> 
+Join us for a hands-on MapLab that invites you to see the Netherlands—and the world—differently.
+Borders are not fixed lines. All places and states are part of dense networks of people, goods, data,
+finance, and ideas. Yet standard maps, in media, education and national spatial planning reports, often
+conceal these connections, reinforcing rigid, nativistic territorial thinking that does not correspond to
+the world we live in. Moreover, these representations—with their exclusive emphasis on territory—
+overlook how people actually experience space. The standard map of the Netherlands thus does not
+reflect reality; it produces a surreality. **This is not the Netherlands**.
+
+Together, we will question the default map of the Netherlands and experiment with alternatives—
+collaborative, imaginative, and grounded in lived geographies. Participants will create **their own
+subjective maps of the Netherlands**, rethinking, drawing, and engaging in speculative cartography
+that reflects how we actually live, move, and connect across space.
+This is not just a lecture; it is a space to reflect, imagine, and design more inclusive ways of seeing the
+world—and a call to redraw the nationalistic frame. **Let’s free the map.**
+
+</details>
+
+### <span style="color:#1e88e5ff;">● Non‑Academic Publishing</span>
+
+Led by *Kars Oosterhuis* - [Hora Est](https://www.hora-est.com)
+
+<details>
+<summary><strong>Click to see workshop description</strong></summary>
+<br> 
+Do you want to reach a bigger audience with your research, but do you have no idea where to start?
+The workshop ‘How to reach out as a scientist’ provides you with hands-on tools. You will learn how
+to look at your own research with a distance, and interest a broader audience for your findings and
+how to trigger journalists.
+As a scientist you are often involved in specific niche research. That allows you to come up with
+valuable insights. At the same time people lacking background knowledge might not always follow
+you. The workshop will allow you to look at your own research with a distance.
+The following topics are addressed:
+- How to recognize storylines in your own research that a relevant for outsiders (journalists,
+policymakers, opinionators).
+- How media think and work. What makes research ‘newsworthy’ and how can you link your finding
+to current (news)events?
+-  How to reach out with your research. How to connect to journalist and how to get your opinion
+article published in a newspaper.
+During the workshop you get to see examples of media-exposure and what the impact can be. Also,
+you’ll learn do’s and don’ts when reaching out to media and interacting with journalists. This is also
+very useful at birthday parties as you can now keep your listeners entertained when telling about your
+research.
+
+</details>
+
+### <span style="color:#004d40ff;">● Collaborative Zine‑Making Workshop: Building Resilience</span>
+
+Led by *Elfi Scheefhals* (mixed media artist) and *Sophia Pekowsky* (PhD candidate at Leiden University)
+
+<details>
+<summary><strong>Click to see workshop description</strong></summary>
+<br> 
+In this workshop, targeted towards early stage PhDs, we will explore our worries and insecurities
+about the PhD trajectory using creative methods. Zines have been used by feminist and queer
+organizations as activist tools to circulate information not endorsed by mainstream media and bring
+together marginalized communities. Using collage, we will create our own collaborative zines, sharing
+our own worries and offering advice. The final zines can be kept, distributed, and returned to when
+PhD related insecurities return.
+
+Elfi and Sophia have lead workshops throughout The Netherlands using creative tools to explore topics
+such as sustainability, feminism, activism, and community.
+</details>
