@@ -1,21 +1,24 @@
 ---
 title: | 
-  ![](logo.png){width=20%} Geosciences PhD Day 2026
-description: "Program details for the 2026 edition of the GEO PhD Day. This event is open to PhD students at the Faculty of Geosciences, Utrecht University."
+  ![](logo.png){width=15%} Geosciences PhD Day 2026
+subtitle: "Program details for the 2026 edition of the GEO PhD Day. This event is open to PhD students at the Faculty of Geosciences, Utrecht University."
 format:
   html:
     css: styles.css
 ---
 
-## Registration
+# <span style="color:#1a1a1aff;">Registration </span>
 
-If you want to join the **Geosciences PhD day** please register [here](https://forms.uu.nl/universiteitutrecht-geo/GeoPhDDay2026){target="_blank"}. Below you can find more information about the event, including the descriptions of the keynote and workshops.
+**GEO PhD Day 2026** takes place on **2nd April 2026** from **12:30-17:00** at the 📍 [**Parnassos Cultural Center**](https://share.here.com/p/s-Yz1PcmdhbmlzYXRpb24lMjBvciUyMFNvY2lldHk7aWQ9NTI4dTE3OGstNjg5NTk2YWNmODZjNDE1OWJiNmVmMDI2NDM5Mjc0NDY7bGF0PTUyLjA5NDE4O2xvbj01LjEzMDM7bj1QYXJuYXNzb3MrQ3VsdHV1cmNlbnRydW07cGg9KzMxMzAyNTM4NDQ4?z=16&t=normal){target="_blank"} in Utrecht (Kruisstraat 201). The event is organized by the [**Young Geo Council**](https://teams.microsoft.com/l/team/19%3A524754d1fc7844de8c9973a4e98adb9a%40thread.tacv2/conversations?groupId=5b93c626-3041-4910-a212-d4abce088c29&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7){target="_blank"}.
 
-## Welcome [12:30-13:00]
+If you want to join the **PhD day** please register [here](https://forms.uu.nl/universiteitutrecht-geo/GeoPhDDay2026){target="_blank"}. Below you can find more information about the event, including the descriptions of the keynote and workshops.
 
-**GEO PhD Day 2026** takes place on **2nd April 2026** from **12:30-17:00** at the 📍 [**Parnassos Cultural Center**](https://share.here.com/p/s-Yz1PcmdhbmlzYXRpb24lMjBvciUyMFNvY2lldHk7aWQ9NTI4dTE3OGstNjg5NTk2YWNmODZjNDE1OWJiNmVmMDI2NDM5Mjc0NDY7bGF0PTUyLjA5NDE4O2xvbj01LjEzMDM7bj1QYXJuYXNzb3MrQ3VsdHV1cmNlbnRydW07cGg9KzMxMzAyNTM4NDQ4?z=16&t=normal){target="_blank"} in Utrecht (Kruisstraat 201).  The event is organized by the [**Young Geo Council**](https://teams.microsoft.com/l/team/19%3A524754d1fc7844de8c9973a4e98adb9a%40thread.tacv2/conversations?groupId=5b93c626-3041-4910-a212-d4abce088c29&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7){target="_blank"}.
+# Event Program
 
-## <span style="color:#be311eff;"> Keynote: Free the Map. From Atlas to Hermes, towards a new cartography of borders and migration. [13:15-14:15] </span>
+## ● Walk-in [12:30-13:00]
+## ● Opening [13:00-13:15]
+
+## <span style="color:#be311eff;"> ● Keynote: Free the Map. From Atlas to Hermes, towards a new cartography of borders and migration. [13:15-14:15] </span>
 
 
 *Prof. Dr. Henk van Houtum* (Nijmegen Centre for Border Research, Radboud University)
@@ -46,9 +49,9 @@ interdependent we are on the globe.
 
 </details>
 
-## Workshops [14:45-17:00]
+## ● Workshops [14:45-17:00]
 
-### <span style="color:#e01919ff;">● MapLab: *Ceci n’est pas les Pays-Bas*</span>
+### <span style="color:#e01919ff;">◔ MapLab: *Ceci n’est pas les Pays-Bas*</span>
 
 Led by *Prof. Dr. Henk van Houtum* (Nijmegen Centre for Border Research, Radboud University)
 
@@ -72,7 +75,7 @@ world—and a call to redraw the nationalistic frame. **Let’s free the map.**
 
 </details>
 
-### <span style="color:#1e88e5ff;">● Non‑Academic Publishing</span>
+### <span style="color:#1e88e5ff;">◔ Non‑Academic Publishing</span>
 
 Led by *Kars Oosterhuis* - [Hora Est](https://www.hora-est.com){target="_blank"}
 
@@ -105,7 +108,7 @@ research.
 
 </details>
 
-### <span style="color:#004d40ff;">● Collaborative Zine‑Making Workshop: Building Resilience</span>
+### <span style="color:#004d40ff;">◔ Collaborative Zine‑Making Workshop: Building Resilience</span>
 
 Led by *Elfi Scheefhals* (mixed media artist) and *Sophia Pekowsky* (PhD candidate at Leiden University)
 
@@ -125,5 +128,5 @@ such as sustainability, feminism, activism, and community.
 
 ## 🍽️ Dinner [17:30-21:00]
 
-After the workshops, we will gather for dinner at [Spaghetteria - Wittenvrouwensingel](https://share.here.com/p/s-Yz1SZXN0YXVyYW50O2lkPTUyOGp4N3BzLWFlMmJkYTNjMTZlNTBiMmNjMTBlZGEwNTFhYTRkYTg3O2xhdD01Mi4wOTUzNDtsb249NS4xMjY2NDtuPVNwYWdoZXR0ZXJpYStVdHJlY2h0K1dpdHRldnJvdXdlbnNpbmdlbDtwaD0rMzEzMDAwMDAwMDA=?z=16&t=normal){target="_blank"}. The dinner will be covered by the **Young Geo-Council**. Please note that spots are limited and will be allocated on a first-come, first-served basis.
+After the workshops, we will gather for dinner at 📍 [**Spaghetteria - Wittevrouwensingel**](https://share.here.com/p/s-Yz1SZXN0YXVyYW50O2lkPTUyOGp4N3BzLWFlMmJkYTNjMTZlNTBiMmNjMTBlZGEwNTFhYTRkYTg3O2xhdD01Mi4wOTUzNDtsb249NS4xMjY2NDtuPVNwYWdoZXR0ZXJpYStVdHJlY2h0K1dpdHRldnJvdXdlbnNpbmdlbDtwaD0rMzEzMDAwMDAwMDA=?z=16&t=normal){target="_blank"}. The dinner will be covered by the **Young Geo-Council**. Please note that spots are limited and will be allocated on a first-come, first-served basis.
 
