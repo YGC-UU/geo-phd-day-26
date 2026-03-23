@@ -7,13 +7,13 @@ format:
     css: styles.css
 ---
 
-# <span style="color:#1a1a1aff;"> Registration</span>
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-b1jz" class="countdown-timer" data-style="circles" data-timezone="Europe/Amsterdam" data-textcolor="#346d8f" data-date="2026-04-02 12:30" data-background="#346d8f" data-digitscolor="#346d8f" data-unitscolor="#346d8f">PhD Day Countdown Timer</a>
 
+# <span style="color:#1a1a1aff;"> Registration</span>
 **GEO PhD Day 2026** takes place on **2nd April 2026** from **12:30-17:00** at the 📍 [**Parnassos Cultural Center**](https://share.here.com/p/s-Yz1PcmdhbmlzYXRpb24lMjBvciUyMFNvY2lldHk7aWQ9NTI4dTE3OGstNjg5NTk2YWNmODZjNDE1OWJiNmVmMDI2NDM5Mjc0NDY7bGF0PTUyLjA5NDE4O2xvbj01LjEzMDM7bj1QYXJuYXNzb3MrQ3VsdHV1cmNlbnRydW07cGg9KzMxMzAyNTM4NDQ4?z=16&t=normal){target="_blank"} in Utrecht (Kruisstraat 201). The event is organized by the [**Young Geo Council**](https://teams.microsoft.com/l/team/19%3A524754d1fc7844de8c9973a4e98adb9a%40thread.tacv2/conversations?groupId=5b93c626-3041-4910-a212-d4abce088c29&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7){target="_blank"}.
 
-**Registration for GEO PhD Day 2026 is now closed**
-
-Below you can find more information about the event, including the descriptions of the keynote and workshops.
+**Registration for GEO PhD Day 2026 is now closed**. Below you can find more information about the event, including the descriptions of the keynote and workshops.
 
 # Event Program
 
@@ -130,4 +130,3 @@ such as sustainability, feminism, activism, and community.
 ## 🍽️ Dinner [17:30-21:00]
 
 After the workshops, we will gather for dinner at 📍 [**Spaghetteria - Wittevrouwensingel**](https://share.here.com/p/s-Yz1SZXN0YXVyYW50O2lkPTUyOGp4N3BzLWFlMmJkYTNjMTZlNTBiMmNjMTBlZGEwNTFhYTRkYTg3O2xhdD01Mi4wOTUzNDtsb249NS4xMjY2NDtuPVNwYWdoZXR0ZXJpYStVdHJlY2h0K1dpdHRldnJvdXdlbnNpbmdlbDtwaD0rMzEzMDAwMDAwMDA=?z=16&t=normal){target="_blank"}. The dinner will be covered by the **Young Geo-Council**. Please note that spots are limited and will be allocated on a first-come, first-served basis.
-
